@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dhanalakshmi-krishnamurthy
-- 🌱 I’m currently learning Data Science
 - 📫 Email:dhanalakshmi.devangi@gmail.com
 
 <!---
